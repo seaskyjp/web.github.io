@@ -1,0 +1,107 @@
+{
+    "test":"test3",
+    
+    "menu": {
+        "info": "关于海天",
+        "services": "业务范围",
+        "showcase": "案例展示",
+        "recruiting": "招聘信息",
+        "recruiting-require": "应聘要求",
+        "on-board": "职位列表",
+        "profile": "公司概况",
+        "speech":"董事长致辞",
+        "clients" : "我们的客户"
+    },
+    "jobs":{
+        "name": "姓名",
+        "email": "邮件",
+        "job": "应聘职位",
+        "cv": "简历",
+        "title": "个人信息",
+        "subtitle": "请留下您的联系方式和简历，我们会尽快和您取得联系"
+    },
+    "page-home-1":{
+        "title":"可靠有效的服务和解决方案",
+        "desc": "海天股份公司致力于成为数字技术服务领域具有影响力的大型企业，成为企业数字化转型过程中值得信赖的合作伙伴。凭借深厚的行业积累，该公司为保险、金融、制造及其他重要行业的国内外客户提供服务。",
+        "btn1": "公司介绍",
+        "btn2": "详细信息"
+    },
+    "page-home-2": {
+        "title1": "广泛的行业经验",
+        "desc1": "我们在保险，健康，新零售等行业拥有丰富的咨询和成功交付的经验",
+        "title2": "可靠有效的服务和解决方案",
+        "desc2": "我们旨在成为数字技术服务中具有影响力的大型企业，成为企业数字变革中的可靠合作伙伴。由于在行业中的深度积累，该公司为保险、金融、制造和其他重要行业的国内外客户提供服务。",
+        "btn": "了解更多"
+    },
+    "section-cat":{
+        "cat1":"公司概况",
+        "cat2": "业务范围",
+        "cat3": "我们的客户"
+    },
+    "section-service":{
+        "title": "业务范围",
+        "desc": "作为企业数字化转型，离岸开发，系统集成的服务商， 海天致力于为客户提供高质量的咨询和交付服务。"
+    },
+    "section-speech":{
+        "title": "致辞",
+        "footer":"董事总经理"
+    },
+    "section-process": {
+        "title":"数字化转型流程"
+    },
+    "section-quality":{
+        "title":"如何保证高质量交付",
+        "desc": "本公司这几年通过以下的努力获得了很多客户的好评和信赖。"
+    },
+    "section-history":{
+        "title":"发展历程",
+        "desc": "本公司设有总部、离岸开发中心、数字转型中心。"
+    },
+    "footer":{
+        "slogan":"企业数字化转型的最佳合作伙伴",
+        "service":"业务范围",
+        "pages": "快速访问",
+        "contact": "联系我们",
+        "footer-nav1": "Home",
+        "footer-nav2": "公司概况",
+        "footer-nav3": "业务范围",
+        "footer-nav4": "案例展示",
+        "tdb": "TDB企业代码： 376022733"
+    },
+    "page-profile":{
+        "title":"公司概况",
+        "td-name":"公司名",
+        "td-boss":"董事总经理",
+        "td-setup":"成立日期",
+        "td-address":"注册地点",
+        "td-capital": "注册资本",
+        "td-license":"劳务派遣事业许可证",
+        "td-license2":"收费职业介绍事业许可证",
+        "td-license3": "古董商许可证",
+        "td-phone":"电话&传真",
+        "td-bank":"开户银行",
+        "service":"海天的业务范围",
+        "nav-email":"邮箱",
+        "nav-phone":"电话",
+        "nav-address":"地址"
+    },
+    "page-speech":{
+        "title":"致辞",
+        "footer":"董事总经理"
+    },
+    "page-clients":{
+        "title":"我们的客户",
+        "subtitle":"我们的部分商业合作伙伴展示"
+    },
+    "page-service":{
+        "title": "业务范围",
+        "subtitle": "作为数字化转型服务，系统集成，软件开发企业，为客户提供高质量的咨询和交付服务。",
+        "btn-details": "详情"
+    },
+    "page-showcase":{
+        "title":"案例介绍",
+        "subtitle":"我们公司在保险、零售、健康和其他领域的部分案例"
+    }
+
+
+}

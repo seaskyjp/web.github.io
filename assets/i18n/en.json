@@ -1,0 +1,104 @@
+{
+    "test": "test3",
+    "menu": {
+        "info": "About Us",
+        "services": "Our Business",
+        "showcase": "Show Cases",
+        "recruiting": "Join Us",
+        "recruiting-require": "Requirements",
+        "on-board": "Jobs",
+        "profile": "Company Profile",
+        "speech": "Message from CEO",
+        "clients": "Our Clients"
+    },
+    "jobs": {
+        "name": "Name",
+        "email": "Email",
+        "job": "Job Application",
+        "cv": "Resume",
+        "title": "Personal information",
+        "subtitle": "Please leave your contact information and resume, we will contact you as soon as possible."
+    },
+    "page-home-1": {
+        "title": "Reliable and effective services and solutions",
+        "desc": "We are committed to becoming a large and influential enterprise in the field of digital technology services and a trusted partner in the process of digital transformation of enterprises. With deep industry experience, the company serves domestic and international customers in insurance, finance, manufacturing and other important industries.",
+        "btn1": "About Us",
+        "btn2": "Details"
+    },
+    "page-home-2": {
+        "title1": "Rich experience in multiple industries",
+        "desc1": "We have extensive consulting and successful delivery experience in industries such as insurance, health, and new retail",
+        "title2": "Reliable and effective services and solutions",
+        "desc2": "We aim to become an influential large enterprise in digital technology services and a reliable partner in the digital transformation of enterprises. Due to its deep accumulation in the industry, the company provides services to domestic and foreign customers in insurance, finance, manufacturing, and other important industries.",
+        "btn": "View more"
+    },
+    "section-cat": {
+        "cat1": "Company Profile",
+        "cat2": "Our Business",
+        "cat3": "Our Clients"
+    },
+    "section-service": {
+        "title": "Our Business",
+        "desc": "As a system integration service company, we will provide useful services for both corporate and individual users."
+    },
+    "section-speech": {
+        "title": "Message from CEO",
+        "footer": "CEO"
+    },
+    "section-process": {
+        "title": "Our Workflow"
+    },
+    "section-quality": {
+        "title": "Ensure high quality delivery",
+        "desc": "We won the trust of many customers through the following efforts in recent years."
+    },
+    "section-history": {
+        "title": "Company history",
+        "desc": "We have a headquarters, offshore development center, and digital transformation center."
+    },
+    "footer": {
+        "slogan": "Best partner for enterprise Digital transformation",
+        "service": "Our Business",
+        "pages": "Quick Navigation",
+        "contact": "Contact Us",
+        "footer-nav1": "Home",
+        "footer-nav2": "Company Profile",
+        "footer-nav3": "Our Business",
+        "footer-nav4": "Show Cases",
+        "tdb": "TDB enterprise code: 376022733"
+    },
+    "page-profile": {
+        "title": "Company Profile",
+        "td-name": "Name",
+        "td-boss": "CEO",
+        "td-setup": "Setup Date",
+        "td-address": "Office",
+        "td-capital": "Capital",
+        "td-license": "Labor Dispatch Business License",
+        "td-license2": "Career Introduction Business License",
+        "td-license3": "Antique Merchant License",
+        "td-phone": "Phone & Fax",
+        "td-bank": "Bank",
+        "service": "Our Business",
+        "nav-email": "Mail",
+        "nav-phone": "Phone",
+        "nav-address": "Address"
+    },
+    "page-speech": {
+        "title": "Message from CEO",
+        "footer": "CEO"
+    },
+    "page-clients": {
+        "title": "Our Clients",
+        "subtitle": "Some of our business partners"
+    },
+    "page-service": {
+        "title": "Our Business",
+        "subtitle": "As a Digital transformation service, system integration and software development enterprise, it provides customers with high-quality consulting and delivery services.",
+        "btn-details": "Details"
+    },
+    "page-showcase": {
+        "title": "Show cases",
+        "subtitle": "Some of our case studies in insurance, retail, health, and other fields"
+    }
+}
