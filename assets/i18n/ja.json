@@ -6,9 +6,18 @@
         "showcase": "ショーケース",
         "recruiting": "採用情報",
         "recruiting-require": "募集要項",
+        "on-board": "役職一覧です",
         "profile": "会社案内",
         "speech": "ご挨拶",
         "clients": "主な取引先"
+    },
+    "jobs": {
+        "name": "名前です",
+        "email": "メール",
+        "job": "職場に応募します",
+        "cv": "履歴書",
+        "title": "連絡先です",
+        "subtitle": "連絡先と履歴書をお願いします。至急ご連絡いたします。"
     },
     "page-home-1": {
         "title": "信頼できる効果的なサービスとソリューション",

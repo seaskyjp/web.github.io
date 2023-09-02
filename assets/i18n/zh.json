@@ -7,9 +7,18 @@
         "showcase": "案例展示",
         "recruiting": "招聘信息",
         "recruiting-require": "应聘要求",
+        "on-board": "职位列表",
         "profile": "公司概况",
         "speech":"董事长致辞",
         "clients" : "我们的客户"
+    },
+    "jobs":{
+        "name": "姓名",
+        "email": "邮件",
+        "job": "应聘职位",
+        "cv": "简历",
+        "title": "个人信息",
+        "subtitle": "请留下您的联系方式和简历，我们会尽快和您取得联系"
     },
     "page-home-1":{
         "title":"可靠有效的服务和解决方案",

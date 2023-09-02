@@ -6,9 +6,18 @@
         "showcase": "Show Cases",
         "recruiting": "Join Us",
         "recruiting-require": "Requirements",
+        "on-board": "Jobs",
         "profile": "Company Profile",
         "speech": "Message from CEO",
         "clients": "Our Clients"
+    },
+    "jobs": {
+        "name": "Name",
+        "email": "Email",
+        "job": "Job Application",
+        "cv": "Resume",
+        "title": "Personal information",
+        "subtitle": "Please leave your contact information and resume, we will contact you as soon as possible."
     },
     "page-home-1": {
         "title": "Reliable and effective services and solutions",
